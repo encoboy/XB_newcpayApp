@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+.change-password-form {
+  .next-input {
+    width: 100%;
+  }
+}
+
+.next-select{
+  margin-right:10px;
+  vertical-align: middle;
+}
+.demo-ctl {
+background-color: #f6f6f6;
+padding: 20px;
+margin-bottom: 10px;
+margin-top: 10px;
+}
+.demo-ctl p {
+  margin-top:0;
+}
+
+.operation-groups{
+  .next-table-header{
+    display:none;
+  }
+  .next-table-row{
+    border:1px solid lightgray;
+  }
+
+}
+
+.tab-table{
+  .tab-list{
+    div.next-tabs-content{
+      min-height: 0;
+      padding: 0;
+    }
+  }
+}

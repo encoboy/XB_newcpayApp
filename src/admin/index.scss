@@ -1,0 +1,21 @@
+.next-switch-on{
+  background-color: #52c41a!important;
+}
+.next-switch-off{
+  background-color: #999!important;
+}
+.error{
+  .next-feedback-title-content{
+    i,.next-feedback-title{
+      color: #ff0f0f!important;
+    }
+    .next-feedback-title{
+      word-break: break-all;
+    }
+  }
+}
+.format{
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  line-height: 25px;
+}
